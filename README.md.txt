@@ -3,3 +3,5 @@ Habituarnos al ciclo de trabajo con Git. Realizando una serie de instrucciones e
 nos damos cuenta de compo funciona de manera más interna la herramienta de GitHub.
 
 Nuevos cambios sin subir al repositorio remoto
+
+Cambios de estudiante b
