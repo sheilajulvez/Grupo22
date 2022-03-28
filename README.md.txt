@@ -4,4 +4,4 @@ nos damos cuenta de compo funciona de manera más interna la herramienta de GitH
 
 Nuevos cambios sin subir al repositorio remoto
 
-Cambios distintos para cada usuario de distintos archivos
+Cambios distintos para cada usuario de distintos archivos estudiantes
