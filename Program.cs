@@ -8,6 +8,7 @@ namespace Grupo22
         {
             Console.WriteLine("Hello World!");
             int i = 0;
+            bool funciona = true;
         }
     }
 }
