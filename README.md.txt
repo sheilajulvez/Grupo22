@@ -7,3 +7,4 @@ Nuevos cambios sin subir al repositorio remoto
 Cambios distintos para cada usuario de distintos archivos estudiantes
 
 Cambiando cosas
+Nueva funcionalidad para rotar piezas con el ratón
