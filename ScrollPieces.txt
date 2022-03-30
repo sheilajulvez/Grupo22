@@ -1,2 +1,2 @@
  “Creada la
-funcionalidad para rotar piezas”
+funcionalidad para rotar piezas” Fichero nuevo
